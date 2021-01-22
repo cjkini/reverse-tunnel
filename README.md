@@ -14,8 +14,8 @@ Reverse tunnel TCP and UDP For Windows Agent
 [report-badge]: https://goreportcard.com/badge/github.com/snsinfu/reverse-tunnel
 [report-url]: https://goreportcard.com/report/github.com/snsifnu/reverse-tunnel
 
-This is fork from https://github.com/snsinfu/reverse-tunnel
-**rtun** is a tool for exposing TCP and UDP ports to the Internet via a public
+This is fork from https://github.com/snsinfu/reverse-tunnel.
+ **rtun** is a tool for exposing TCP and UDP ports to the Internet via a public
 gateway server. You can expose ssh and mosh server on a machine behind firewall
 and NAT.
 
