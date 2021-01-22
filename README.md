@@ -114,6 +114,7 @@ And run agent:
 ```console
 ./rtun
 ```
+For Windows 10, please include this file https://github.com/snsinfu/reverse-tunnel/releases/download/v1.2.0/rtun.exe and hit .rtun to execute the agent
 
 Note: When you are using TLS on the server the gateway URL should start with
 `wss://` instead of `ws://`. In this case, the port number should most likely
